@@ -1,5 +1,4 @@
 <?php
-require "antibot.php";
 
 function file_get_contents_curl($url) {
     $ch = curl_init();
